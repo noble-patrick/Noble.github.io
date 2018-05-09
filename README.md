@@ -42,7 +42,7 @@ Mobile sensors will drive innovation and business value. Smart mobile devices ar
 
 Digital business models shift to mobile platform providers. Those who own the platforms make the rules, and this has proven the case with mobile platforms when it comes to business models. App purchases, in-app purchases, advertising,and more are all under the strict control of Apple, Google, and other mobile platform owners. <br>
 
-Conclusion
+<h4>Conclusion<h4>
 
 If organizations focus on the major issues most of which I believe are summarized above -- and are willing to invest appropriately, I believe mobile/social convergence will have limited negative impact and considerable upside.
 
