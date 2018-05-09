@@ -9,12 +9,6 @@ The concept of a self-contained, connected and easily portable device has been w
  Whether their enthusiasm is justified or not, people get excited about higher resolution screens, front facing cameras.Researchers and analysts have predicted that by 2025 there will be six devices per human on the planet.<br> If this is true, it  means that we would  expect to see <b>50 billion</b> more connected devices over the next decade. So, while a proclamation that, “5G phones with 3D cameras will become the norm in 2 – 3 years,” is a prediction that may possibly come true, it is disingenuous to say it without also discussing the software that will emerge to facilitate the trend.
  <a href="https://www.youtube.com/watch?v=FScddkTMlTc">Video Here</a>.
 
-		<br><b><font color="blue"> Near Field Communication (NFC):</font></b>
-Most of the press on NFC has gone to deals getting made between payment providers standardizing on a way for people to pay for goods with their phone. Mobile commerce, while potentially very lucrative for the key industry players, is a boring use of the technology. A more exciting use of NFC is for social interaction. Want to remember the friends you had drinks with last Tuesday? Launch the Facebook app and see who your phone auto-tagged that night.
-
- <h2><br><b><font color="blue">3D cameras</font></b><br>
-No one cares about 3D TV. People hate wearing 3D glasses and the programming available for 3D television is non-existent. Mobile phone manufacturers are jumping on the 3D bandwagon so that they can check an extra box on a spec sheet. But, I believe, 3D and more specifically 3D cameras are not a lost cause. 3D cameras provide the device with a new input sensor for spatial relationships. With two cameras it is now possible for a device to gauge the speed and placement of objects in an environment. Imagine a radar gun app for measuring the velocity of a baseball, an app that renders physical objects on a device in 3D.
-
 <h1><font color="Red"> Mobile Convergence</font></h1>
 
 Mobile convergence is simply the implementation of mobile handsets and similar devices that incorporate more than one radio, with the ability to hand off a connection between these otherwise incompatible physical layers.
