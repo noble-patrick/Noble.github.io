@@ -25,6 +25,27 @@ No one cares about 3D TV. People hate wearing 3D glasses and the programming ava
 Mobile convergence is simply the implementation of mobile handsets and similar devices that incorporate more than one radio, with the ability to hand off a connection between these otherwise incompatible physical layers.
 The objective is to converge upper-layer voice, data and media communications capabilities into a single logical set of services available in essentially the same form on, say, Wi-Fi and cellular networks, with no user intervention and no difference in functionality.
 
+<h2>Importance's of Convergence</h2
+
+In terms of meaningful real-world impact of these technologies, mass self-organizing activity of all types has been enabled and greatly amplified by social media, mobile devices, or increasingly both.
+•The reach of today's global mobile and social networks, combined with motivated users and applications that explicitly tap into what makes them uniquely effective creating a growing level of genuine change in the status quo of politics, society, culture, government, and business.
+•Geography, cost, time, discoverability, and even language have largely fallen as significant obstacles to communicating and collaborating with everyone in the world.
+•Convergence of mobile technologies allows companies to increase their business effectiveness, reduce cost of operation, simplify customer servicing procedures, reduce the time of product and service delivery to customers, improve coordination with suppliers and contractors, and in effect  improve their competitive advantage.
+
+   <h3>implications of mobile/social convergence</h3>
+Challenges of social on proprietary platforms. Unlike the open standards of the Web, mobile applications are based on proprietary technology. Whether an organization is building its own apps or 3rd party apps, there will be a tension between the lack of standardization, platform lock-in, and vendor competition that will impact the openness and transparency that makes social media so effective.  
+
+Mobile sensors will drive innovation and business value. Smart mobile devices aren't laptops that are lighter, they have a rich set of new sensors (compass, GPS, accelerometers, gyroscopes, multiple cameras, NFC, and more) with operating systems designed to take advantage of them. This can enable many interesting business scenarios such as multiple-point video chat , Google Hangouts. While unified communication platforms are focusing on these even more than enterprise social media, both will ultimately take advantage of it to drive productivity internally and better engagement externally, such as with social customer care.
+
+Digital business models shift to mobile platform providers. Those who own the platforms make the rules, and this has proven the case with mobile platforms when it comes to business models. App purchases, in-app purchases, advertising,and more are all under the strict control of Apple, Google, and other mobile platform owners. 
+
+Conclusion
+
+If organizations focus on the major issues most of which I believe are summarized above -- and are willing to invest appropriately, I believe mobile/social convergence will have limited negative impact and considerable upside.
+
+
+
+
 
 
 
