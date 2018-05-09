@@ -22,14 +22,10 @@ No one cares about 3D TV. People hate wearing 3D glasses and the programming ava
 
 	<h1><font color="Red"> Mobile Convergence</font></h1>
 
+Mobile convergence is simply the implementation of mobile handsets and similar devices that incorporate more than one radio, with the ability to hand off a connection between these otherwise incompatible physical layers.
+The objective is to converge upper-layer voice, data and media communications capabilities into a single logical set of services available in essentially the same form on, say, Wi-Fi and cellular networks, with no user intervention and no difference in functionality.
 
-[![future of mobile technology](https://img.youtube.com/vi/FScddkTMlTc/0.jpg)](https://www.youtube.com/watch?v=FScddkTMlTc)
 
-
-![Naringu](images/screenshot-1.png)
-![Naringu](images/screenshot-2.png)
-![Naringu](images/screenshot-3.png)
-![Naringu](images/screenshot-4.png)
 
 
 	</p>
