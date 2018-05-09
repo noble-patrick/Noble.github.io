@@ -1,6 +1,5 @@
 # Noble.github.io
-<!DOCTYPE html>
-<html>
+
 	<title>KIIZA PATRICK GITHUB SITE</title>>
 <body bgcolor="teal">
 
