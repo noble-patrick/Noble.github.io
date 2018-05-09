@@ -1,7 +1,7 @@
-# Noble.github.io
+# KIIZA PATRICK @Noble_Hacker
 
 	KIIZA PATRICK GITHUB SITE
-<body bgcolor="teal">
+
 
 <h1>
 <font color="Red"> Future of Mobile Computing</font>
@@ -38,7 +38,7 @@ In terms of meaningful real-world impact of these technologies, mass self-organi
    <h3>Implications of mobile/social convergence</h3>
 Challenges of social on proprietary platforms. Unlike the open standards of the Web, mobile applications are based on proprietary technology. Whether an organization is building its own apps or 3rd party apps, there will be a tension between the lack of standardization, platform lock-in, and vendor competition that will impact the openness and transparency that makes social media so effective.<br>  
 
-Mobile sensors will drive innovation and business value. Smart mobile devices aren't laptops that are lighter, they have a rich set of new sensors (compass, GPS, accelerometers, gyroscopes, multiple cameras, NFC, and more) with operating systems designed to take advantage of them. This can enable many interesting business scenarios such as multiple-point video chat , Google Hangouts. While unified communication platforms are focusing on these even more than enterprise social media, both will ultimately take advantage of it to drive productivity internally and better engagement externally, such as with social customer care.<br>
+Mobile sensors will drive innovation and business value. Smart mobile devices aren't laptops that are lighter, they have a rich set of new sensors (compass, GPS, accelerometers, gyroscopes, multiple cameras, NFC, and more) This can enable many interesting business scenarios such as multiple-point video chat , Google Hangouts. While unified communication platforms are focusing on these even more than enterprise social media, both will ultimately take advantage of it to drive productivity internally and better engagement externally, such as with social customer care.<br>
 
 Digital business models shift to mobile platform providers. Those who own the platforms make the rules, and this has proven the case with mobile platforms when it comes to business models. App purchases, in-app purchases, advertising,and more are all under the strict control of Apple, Google, and other mobile platform owners. <br>
 
@@ -53,7 +53,3 @@ If organizations focus on the major issues most of which I believe are summarize
 
 
 
-
-	</p>
-</body>
-</html>
