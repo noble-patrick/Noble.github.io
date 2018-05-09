@@ -14,11 +14,6 @@ Most of the press on NFC has gone to deals getting made between payment provider
  		<br><b><font color="blue">3D cameras</font></b><br>
 No one cares about 3D TV. People hate wearing 3D glasses and the programming available for 3D television is non-existent. Mobile phone manufacturers are jumping on the 3D bandwagon so that they can check an extra box on a spec sheet. But, I believe, 3D and more specifically 3D cameras are not a lost cause. 3D cameras provide the device with a new input sensor for spatial relationships. With two cameras it is now possible for a device to gauge the speed and placement of objects in an environment. Imagine a radar gun app for measuring the velocity of a baseball, an app that renders physical objects on a device in 3D.
 
-
-
-<a href="(https://img.youtube.com/vi/FScddkTMlTc/0.jpg)](https://www.youtube.com/watch?v=FScddkTMlTc)">Future of Mobile Technoogy</a>
-
-
 <h1><font color="Red"> Mobile Convergence</font></h1>
 
 Mobile convergence is simply the implementation of mobile handsets and similar devices that incorporate more than one radio, with the ability to hand off a connection between these otherwise incompatible physical layers.
